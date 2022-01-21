@@ -1,3 +1,5 @@
+from PIL import Image
+
 def picture_generator():
     print("Generating Picture!")
 
