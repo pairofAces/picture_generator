@@ -1,4 +1,5 @@
 def picture_generator():
     print("Generating Picture!")
 
-picture_generator()
+if __name__ == "__main__":
+    picture_generator()
